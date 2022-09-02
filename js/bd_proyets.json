@@ -2,21 +2,21 @@
     
     "proyect_1": {
         "tip_elem":"iframe",
-        "link_demo": "works/demo?work_id=aHR0cHM6Ly9odG1sLmRlc2lnbi9kZW1vL2NvbGRiZXJncy8=",
+        "link_demo": "https://naz-d.herokuapp.com/works/demo?work_id=aHR0cHM6Ly9odG1sLmRlc2lnbi9kZW1vL2NvbGRiZXJncy8=",
         "link_img": "https://html.design/wp-content/uploads/2020/10/coldbergs-600x800.jpg",
         "title": "Projecto Web 1",
         "description": "Coldbergs"
     },
     "proyect_2": {
         "tip_elem":"iframe",
-        "link_demo": "works/demo?work_id=aHR0cHM6Ly9odG1sLmRlc2lnbi9kZW1vL2JhY2tvbi8=",
+        "link_demo": "https://naz-d.herokuapp.com/works/demo?work_id=aHR0cHM6Ly9odG1sLmRlc2lnbi9kZW1vL2JhY2tvbi8=",
         "link_img": "https://html.design/wp-content/uploads/2021/09/banner_pre_-600x800.png",
         "title": "Proyecto Web 2",
         "description": "Backon"
     },
     "proyect_3": {
         "tip_elem":"iframe",
-        "link_demo": "works/demo?work_id=aHR0cHM6Ly9odG1sLmRlc2lnbi9kZW1vL2ZlYW5lLw==",
+        "link_demo": "https://naz-d.herokuapp.com/works/demo?work_id=aHR0cHM6Ly9odG1sLmRlc2lnbi9kZW1vL2ZlYW5lLw==",
         "link_img": "https://html.design/wp-content/uploads/2021/04/Feane-400x500.jpg",
         "title": "Projecto Web 3",
         "description": "Feane"
@@ -37,7 +37,7 @@
     },
     "proyect_6": {
         "tip_elem":"iframe",
-        "link_demo": "works/demo?work_id=aHR0cHM6Ly9odG1sLmRlc2lnbi9kZW1vL3ByaWNpbmctdGFibGVzLXYxLw==",
+        "link_demo": "https://naz-d.herokuapp.com/works/demo?work_id=aHR0cHM6Ly9odG1sLmRlc2lnbi9kZW1vL3ByaWNpbmctdGFibGVzLXYxLw==",
         "link_img": "https://html.design/wp-content/uploads/2019/03/green-600x800.jpg",
         "title": "Projecto Web 4",
         "description": "Tablas de precios adaptables"
@@ -65,7 +65,7 @@
     },
     "proyect_10": {
         "tip_elem":"iframe",
-        "link_demo": "works/demo?work_id=https://html.design/demo/chamb/",
+        "link_demo": "https://naz-d.herokuapp.com/works/demo?work_id=https://html.design/demo/chamb/",
         "link_img": "https://html.design/wp-content/uploads/2019/03/chamb-758x948.jpg",
         "title": "Projecto web",
         "description": " Chamb - Plantilla de comercio electrónico de muebles"
