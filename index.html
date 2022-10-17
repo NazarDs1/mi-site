@@ -1970,8 +1970,8 @@ body {
 
 				$.ajax({
 					type: "post",
-					url: "https://naz-d.herokuapp.com/send",
-					data: { datos: datos_form },
+					url: "https://ApiNode.naz-d.repl.co/suscript",
+					data: JSON.parse(datos_form),
 					dataType: "text",
 					beforeSend: function () {
 						// $('#boxLoading').addClass('loading');
